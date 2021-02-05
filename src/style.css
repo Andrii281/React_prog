@@ -1,0 +1,39 @@
+.App{
+    margin: 100px auto;
+    padding: 20px 10px 10px 20px;
+    border: 1px solid red;
+    width: 250px;
+    height: 400px;
+}
+
+.contactsBlock{
+    height: 300px;
+    overflow-y: scroll;
+}
+
+.contact{
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 6%;
+}
+
+.manFilter .womanFilter span{
+    display: flex;
+    justify-content: space-between;
+}
+
+.addInfoActive{
+    display: block;
+}
+
+.addInfoHiden{
+    display: none;
+}
+
+.FilterBlock{
+    margin: 10px 0px 10px 0px;
+}
+
+li {
+    list-style-type: none;
+   }
